@@ -2,16 +2,18 @@
   "name": "one-mojave-dark-edit",
   "displayName": "One Mojave Dark+ Edit",
   "description": "An edit of the One Mojave Dark+ theme by Reagan Karnes.",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "publisher": "MarcVida",
   "repository": {
     "type": "git",
-    "url": "TODO: ADD GITHUB URL"
+    "url": "https://github.com/MarcVida/one-mojave-dark-edit"
   },
+  "icon": "images/icon.png",
   "keywords": [
     "theme",
     "dark theme",
     "material",
+    "atom",
     "one mojave",
     "one mojave edit",
     "one mojave dark",
