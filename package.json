@@ -1,0 +1,41 @@
+{
+  "name": "one-mojave-dark-edit",
+  "displayName": "One Mojave Dark+ Edit",
+  "description": "An edit of the One Mojave Dark+ theme by Reagan Karnes.",
+  "version": "0.0.1",
+  "publisher": "MarcVida",
+  "repository": {
+    "type": "git",
+    "url": "TODO: ADD GITHUB URL"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "material",
+    "one mojave",
+    "one mojave edit",
+    "one mojave dark",
+    "one mojave dark+",
+    "one mojave dark+ edit",
+    "one mojave dark edit",
+    "marc vida",
+    "marcvida",
+    "marcvida dark",
+    "minimal"
+  ],
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "One Mojave Dark+ Edit",
+        "uiTheme": "vs-dark",
+        "path": "./themes/One Mojave Dark+ Edit-color-theme.json"
+      }
+    ]
+  }
+}
