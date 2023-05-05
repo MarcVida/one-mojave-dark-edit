@@ -11,3 +11,7 @@
 ## [ 1.0.2 | 2023-05-04 ]
 
 - Nothing. The version number was incremented by accident :(
+
+## [ 1.0.3 | 2023-05-05 ]
+
+- Small fixes, including the status bar hover color.
